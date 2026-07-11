@@ -32,4 +32,4 @@ g++ *.cpp -o SearchEngine
 
 Run:
 
-./SearchEngine
+SearchEngine.exe
