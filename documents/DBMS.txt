@@ -1,0 +1,19 @@
+Database stores organized data.
+
+Normalization removes redundancy.
+
+Primary Key uniquely identifies records.
+
+Foreign Key creates relationships.
+
+SQL is used to query databases.
+
+Transactions follow ACID properties.
+
+Indexes improve search performance.
+
+Joins combine multiple tables.
+
+Views simplify complex queries.
+
+Stored Procedures automate operations.

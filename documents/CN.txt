@@ -1,0 +1,19 @@
+Computer Networks enable communication.
+
+TCP provides reliable communication.
+
+UDP is faster than TCP.
+
+Routers forward packets.
+
+Switches connect devices.
+
+IP Address uniquely identifies hosts.
+
+DNS translates domain names.
+
+HTTP is used for web communication.
+
+Firewalls improve security.
+
+OSI Model has seven layers.

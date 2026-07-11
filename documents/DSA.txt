@@ -1,0 +1,19 @@
+Trie is a tree data structure.
+
+Trie is used for autocomplete.
+
+Graph algorithms solve shortest path problems.
+
+Heap is used for priority queue.
+
+Queue follows FIFO principle.
+
+Stack follows LIFO principle.
+
+Binary Search works on sorted arrays.
+
+Merge Sort uses divide and conquer.
+
+Quick Sort is an efficient sorting algorithm.
+
+Dynamic Programming solves overlapping subproblems.

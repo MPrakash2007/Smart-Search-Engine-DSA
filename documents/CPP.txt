@@ -1,0 +1,19 @@
+C++ supports object oriented programming.
+
+Classes and objects are fundamental concepts.
+
+Vector is a dynamic array.
+
+Queue and Stack are available in STL.
+
+Priority Queue is implemented using Heap.
+
+Templates enable generic programming.
+
+Trie can be implemented using pointers.
+
+Maps and Unordered Maps store key value pairs.
+
+Functions can be overloaded.
+
+Inheritance supports code reusability.

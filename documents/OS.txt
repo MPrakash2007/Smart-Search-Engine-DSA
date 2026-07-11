@@ -1,0 +1,31 @@
+Operating System
+
+An operating system is system software that manages computer hardware and software resources.
+The operating system acts as an interface between the user and computer hardware.
+
+The main functions of an operating system include process management, memory management, file management, and device management.
+
+Process management handles execution of processes and scheduling of CPU resources.
+The operating system uses scheduling algorithms to allocate CPU time to different processes.
+
+Memory management is responsible for allocating and deallocating memory.
+Virtual memory allows a computer to execute programs larger than physical memory.
+
+File management controls the creation, deletion, and organization of files and directories.
+The file system stores and retrieves data efficiently.
+
+Device management controls input and output devices using device drivers.
+The operating system manages communication between hardware devices and applications.
+
+Important operating system concepts include process, thread, scheduling, deadlock, synchronization, paging, segmentation, and virtual memory.
+
+CPU scheduling algorithms include First Come First Serve, Shortest Job First, Priority Scheduling, and Round Robin.
+
+A deadlock occurs when multiple processes wait indefinitely for resources.
+Deadlock prevention and deadlock avoidance techniques are used to handle such situations.
+
+Common operating systems include Windows, Linux, macOS, and Android.
+
+Linux is an open source operating system widely used in servers and embedded systems.
+
+Operating system security protects data and resources through authentication and access control.
